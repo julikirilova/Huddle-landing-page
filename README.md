@@ -9,4 +9,5 @@ This challenge is to build out this Huddle landing page and get it looking as cl
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Flexbox
 - Mobile 1st approach
