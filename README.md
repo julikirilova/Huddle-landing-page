@@ -11,3 +11,8 @@ This challenge is to build out this Huddle landing page and get it looking as cl
 - CSS Grid
 - Flexbox
 - Mobile 1st approach
+
+### Screenshot
+
+
+<img width="1081" alt="img" src="https://user-images.githubusercontent.com/36899734/179223841-044a1dbd-afaf-42e4-af75-f98abd2c9cf5.png">
